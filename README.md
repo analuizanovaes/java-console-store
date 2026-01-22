@@ -50,18 +50,9 @@ Removed successfully!
 List of remaining products:
 102, Mouse, 60.00
 Total Price: 60.00
-👩‍💻 Autora
-Ana Luiza Fernandes Novaes
 
 Estudante de Análise e Desenvolvimento de Sistemas e entusiasta do ecossistema Java/Spring. Focada em construir uma base sólida para o desenvolvimento Full-Stack.
 
-(Substitua pelo link exato do seu perfil se quiser)
-
 Estudos baseados na trilha de Java do professor Nélio Alves.
 
-### 💡 Dica de Ouro (O "Pulo do Gato")
-Sabe aquele print lindo do terminal que você tirou (o `image_553eef.png`)?
-1.  Salva ele dentro da pasta do seu projeto com o nome `print-terminal.png`.
-2.  Lá no GitHub, dá um upload nele.
-3.  No README, onde eu coloquei `## 📸 Exemplo de Uso`, você pode substituir aquele bloco de texto por:
-    `![Exemplo de Execução](print-terminal.png)`
+👩‍💻 Autora: Ana Luiza Fernandes Novaes
